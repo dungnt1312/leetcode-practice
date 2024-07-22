@@ -4,6 +4,27 @@
  */
 var solveSudoku = function (board) {
 
+    const checkHorizontal = (board, row, col) => {
+        for (let i = 0; i < 9; i++) {
+
+        }
+    }
+    const checkVertical = (board, row, col){
+
+    }
+
+    for (let row = 0; row < 9; row++) {
+
+        for (let col = 0; col < 9; col++) {
+            const value = board[row][col];
+
+            if (value === '.') {
+
+            }
+
+        }
+    }
+
 };
 
 
