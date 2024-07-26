@@ -13,3 +13,7 @@ const twoSum = function (nums, target) {
 };
 
 console.log(twoSum([21, 2, 5, 6], 11))
+
+const temp = {
+    2: 0,
+}
